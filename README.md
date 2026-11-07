@@ -2,12 +2,12 @@
 
 > A PyTorch-based deep learning model for detecting deepfakes in images and videos using Vision Transformers with advanced augmentation and dual-scale training techniques.
 
-🔗 **GitHub Repository**: [guptavaibhav1806/deepfake-detection](https://github.com/guptavaibhav1806/deepfake-detection)                        
+🔗 **GitHub Repository**: [urvimishra05/deepfake-detection](https://github.com/urvimishra05/deepfake-detection)                        
 🔗 **Huggingface URL**: [model preview](https://huggingface.co/spaces/Vaibhav1806/Deepfake_detection)
 
 ## 🎯 Overview
 
-This project implements a binary classification model to distinguish between **real** and **fake** (deepfake) images. The model leverages state-of-the-art Vision Transformer architectures from the `timm` library, combined with sophisticated data augmentation and ensemble techniques to achieve robust deepfake detection.
+This project implements a binary classification model to distinguish between **real** and **fake** (deepfake) images. The model leverages state-of-the-art Vision Transformer architectures from the `timm` library, combined with sophisticated data augmentation and ensemble techniques to achieve robust deepfake detection. 
 
 **Paper Title**: *Attention-Enhanced Vision Transformers with Multi-Scale Feature Learning for Deepfake Detection*
 
